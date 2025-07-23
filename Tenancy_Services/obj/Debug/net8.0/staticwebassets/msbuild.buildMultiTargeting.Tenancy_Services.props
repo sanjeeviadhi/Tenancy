@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tenancy_Services.props" />
+</Project>
