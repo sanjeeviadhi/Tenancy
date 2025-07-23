@@ -1,0 +1,12 @@
+D:\Tenancy\Tenancy_Shared\bin\Debug\net8.0\Tenancy_Shared.deps.json
+D:\Tenancy\Tenancy_Shared\bin\Debug\net8.0\Tenancy_Shared.dll
+D:\Tenancy\Tenancy_Shared\bin\Debug\net8.0\Tenancy_Shared.pdb
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.csproj.AssemblyReference.cache
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.AssemblyInfoInputs.cache
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.AssemblyInfo.cs
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.csproj.CoreCompileInputs.cache
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.dll
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\refint\Tenancy_Shared.dll
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\Tenancy_Shared.pdb
+D:\Tenancy\Tenancy_Shared\obj\Debug\net8.0\ref\Tenancy_Shared.dll
