@@ -1,0 +1,17 @@
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Tenancy_Persistence.deps.json
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Tenancy_Persistence.dll
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Tenancy_Persistence.pdb
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Application_Tenancy.dll
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Tenancy_Shared.dll
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Application_Tenancy.pdb
+D:\Tenancy\Tenancy_Persistence\bin\Debug\net8.0\Tenancy_Shared.pdb
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.csproj.AssemblyReference.cache
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.AssemblyInfoInputs.cache
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.AssemblyInfo.cs
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.csproj.CoreCompileInputs.cache
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_.D6BB9E27.Up2Date
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.dll
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\refint\Tenancy_Persistence.dll
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\Tenancy_Persistence.pdb
+D:\Tenancy\Tenancy_Persistence\obj\Debug\net8.0\ref\Tenancy_Persistence.dll
