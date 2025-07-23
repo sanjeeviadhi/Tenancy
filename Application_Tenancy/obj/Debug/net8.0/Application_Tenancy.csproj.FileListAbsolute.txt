@@ -1,0 +1,15 @@
+D:\Tenancy\Application_Tenancy\bin\Debug\net8.0\Application_Tenancy.deps.json
+D:\Tenancy\Application_Tenancy\bin\Debug\net8.0\Application_Tenancy.dll
+D:\Tenancy\Application_Tenancy\bin\Debug\net8.0\Application_Tenancy.pdb
+D:\Tenancy\Application_Tenancy\bin\Debug\net8.0\Tenancy_Shared.dll
+D:\Tenancy\Application_Tenancy\bin\Debug\net8.0\Tenancy_Shared.pdb
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.csproj.AssemblyReference.cache
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.AssemblyInfoInputs.cache
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.AssemblyInfo.cs
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.csproj.CoreCompileInputs.cache
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Applicat.1510686B.Up2Date
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.dll
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\refint\Application_Tenancy.dll
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\Application_Tenancy.pdb
+D:\Tenancy\Application_Tenancy\obj\Debug\net8.0\ref\Application_Tenancy.dll
